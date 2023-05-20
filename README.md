@@ -42,3 +42,7 @@ Swire-Thompson, B., Ecker, U.K.H., Lewandowsky, S. and Berinsky, A.J. (2020), Th
 
 Turel, O., & Osatuyi, B. (2021) Biased Credibility and Sharing of Fake News on Social Media: Considering Peer Context and Self-Objectivity State, Journal of Management Information Systems, 38(4), 931-958. doi:10.1080/07421222.2021.199061
 
+## Code Sources:
+Wilensky, U., Rand, W. (2006). NetLogo Segregation Simple model. http://ccl.northwestern.edu/netlogo/models/SegregationSimple. Center for Connected Learning and Computer-Based Modeling, Northwestern Institute on Complex Systems, Northwestern University, Evanston, IL. 
+
+Stonedahl, F. and Wilensky, U. (2008). NetLogo Virus on a Network model. http://ccl.northwestern.edu/netlogo/models/VirusonaNetwork. Center for Connected Learning and Computer-Based Modeling, Northwestern University, Evanston, IL.
